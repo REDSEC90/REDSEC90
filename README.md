@@ -1,145 +1,133 @@
-<!--
-  Profile README for REDSEC90 / Hexspecter
-
-  Objetivo:
-  - Servir como entrypoint técnico do perfil GitHub.
-  - Mostrar identidade técnica, projetos principais, labs e direção de estudo.
-  - Separar projetos autorais, experimentos e forks/estudos.
-
-  OPSEC:
-  - Se quiser reduzir exposição pública, remova o nome civil e use apenas Hexspecter / REDSEC90.
--->
-
 <h1 align="center">Hexspecter // REDSEC90</h1>
 
 <p align="center">
-  <strong>Cybersecurity • Ethical Hacking • Artificial Intelligence • Linux • Automation • Android Systems</strong>
+  <strong>Cybersecurity • AI Tooling • Linux/Android Automation • Systems Engineering</strong>
 </p>
 
 <p align="center">
-  Brazilian autodidact developer building tools at the intersection of security, AI, automation and complex systems.
+  Self-taught Brazilian developer building tools and labs at the intersection of security, AI, automation and complex systems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/REDSEC90?tab=repositories">Repositories</a> •
-  <a href="#projetos-principais">Projetos principais</a> •
-  <a href="#labs-e-estudos">Labs e estudos</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#mentalidade">Mentalidade</a>
+  <a href="#start-here">Start here</a> •
+  <a href="#best-work">Best work</a> •
+  <a href="#labs--studies">Labs</a> •
+  <a href="#technical-map">Technical map</a> •
+  <a href="https://github.com/REDSEC90?tab=repositories">All repositories</a>
 </p>
 
 ---
 
-## Quem sou
+## Start Here
 
-Sou **Wendell de Araujo Lima**, também conhecido como **Hexspecter**.
-
-Meu foco é entender sistemas em profundidade: como funcionam, onde falham, como podem ser protegidos, automatizados e integrados. Estudo e construo projetos conectando:
-
-- **Segurança cibernética:** Linux, redes, pentest ético, hardening e automação de análise.
-- **Inteligência artificial:** LLMs, prompt engineering, agentes, avaliação, datasets e fine-tuning local.
-- **Automação:** CLIs, scripts, pipelines, logs, retries, diagnósticos e ferramentas reutilizáveis.
-- **Sistemas:** Android, Waydroid, ADB, containers, ambiente Linux e integração software/hardware.
-- **Exatas aplicadas:** matemática, lógica, estatística, risco, modelagem e tomada de decisão.
-
-> Minha direção é transformar estudo em ferramentas reais, laboratórios práticos e sistemas que aumentam capacidade técnica.
+| If you want to see... | Open this | What it proves |
+|---|---|---|
+| AI/LLM tooling | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | TypeScript CLI, LLM providers, prompt engineering, feedback, datasets, evaluation and local fine-tuning flow. |
+| Linux + Android automation | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Bash architecture, Waydroid/ADB automation, state machine, diagnostics, logging, backups and plugins. |
+| Python automation basics | [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Scripted filtering, data handling and practical automation. |
+| Trading/API experiments | [`Cripto`](https://github.com/REDSEC90/Cripto) + [`iqoptionapi`](https://github.com/REDSEC90/iqoptionapi) | Python studies around market, API and automation experiments. |
+| Android/mobile systems | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Device tree, recovery and Android system references. |
 
 ---
 
-## Mapa rápido do perfil
+## Who I Am
 
-| Se você quer ver... | Comece por |
-|---|---|
-| Projeto mais completo de IA/LLM | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) |
-| Automação Linux + Android/Waydroid | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) |
-| Automação simples em Python | [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) |
-| Estudos de trading/API/mercado | [`Cripto`](https://github.com/REDSEC90/Cripto) e [`iqoptionapi`](https://github.com/REDSEC90/iqoptionapi) |
-| Base Android/mobile systems | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) |
-| Notas de Git, colaboração e fluxo de trabalho | [`Script-Whats`](https://github.com/REDSEC90/Script-Whats) |
+I am **Wendell de Araujo Lima**, also known as **Hexspecter**.
+
+My work is driven by one principle: understand systems deeply enough to build, automate, protect and improve them. I study and build across:
+
+- **Cybersecurity:** Linux, networking, ethical pentest, hardening and analysis automation.
+- **Artificial intelligence:** LLMs, prompt engineering, agents, evaluation, datasets and local fine-tuning.
+- **Automation:** CLIs, scripts, logs, retries, diagnostics and reusable workflows.
+- **Systems:** Android, Waydroid, ADB, containers, Linux environments and software/hardware integration.
+- **Applied math:** logic, statistics, risk, modeling and decision systems.
 
 ---
 
-## Projetos principais
+## Best Work
 
 ### [`prompt-generator`](https://github.com/REDSEC90/prompt-generator)
 
-CLI inteligente para criação, revisão, execução e melhoria de prompts estruturados para LLMs.
+CLI for creating, reviewing, running and improving structured prompts for LLMs.
 
-**O que demonstra:**
+**Highlights**
 
-- TypeScript/Node.js aplicado a ferramenta CLI real.
-- Integração com modelos locais e remotos.
-- Suporte a Ollama, Anthropic e OpenAI.
-- Modo offline/local/remoto.
-- Feedback store, aprendizado contínuo e exportação de dataset.
-- Estrutura com testes, documentação, treinamento e avaliação.
+- TypeScript/Node.js CLI architecture.
+- Local and remote model support.
+- Ollama, Anthropic and OpenAI integrations.
+- Offline/local/remote execution modes.
+- Feedback store, continuous learning and dataset export.
+- Tests, docs, training and evaluation workflow.
 
-**Por que importa:**
+**Why it matters**
 
-Este projeto mostra meu foco em IA aplicada, automação de raciocínio, engenharia de prompts, avaliação de respostas e criação de ferramentas para produtividade técnica.
+This is the strongest public signal of my current AI work: prompt engineering, LLM workflows, evaluation, automation and practical tooling.
 
 ---
 
 ### [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2)
 
-Runtime CLI modular para transformar ambientes Android/Waydroid em sistemas programáveis no Linux.
+Modular Linux CLI runtime for controlling Android/Waydroid environments.
 
-**O que demonstra:**
+**Highlights**
 
-- Bash/Shell aplicado a automação de ambiente real.
-- Controle de ciclo de vida com state machine.
-- Logging estruturado, lockfile, retry e diagnóstico.
-- Integração com ADB, Waydroid, backup e plugins.
-- Pensamento de arquitetura mesmo em scripts shell.
+- Bash/Shell automation for a real Linux + Android environment.
+- Lifecycle control with state machine.
+- Structured logging, lockfile, retry and diagnostics.
+- ADB, Waydroid, backups and plugin system.
+- System-oriented architecture inside shell scripts.
 
-**Por que importa:**
+**Why it matters**
 
-Este projeto conecta Linux, Android, automação, observabilidade e engenharia de sistemas, áreas importantes para segurança, análise e controle de ambientes técnicos.
+This project connects Linux, Android, automation, observability and systems engineering, which are useful foundations for security, analysis and controlled technical environments.
 
 ---
 
-## Labs e estudos
+## Labs & Studies
 
-| Repositório | Tipo | Leitura técnica |
+| Repository | Type | Technical reading |
 |---|---|---|
-| [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Python / automação | Script para filtrar listas e separar resultados por critérios definidos. |
-| [`Cripto`](https://github.com/REDSEC90/Cripto) | Python / experimento | Laboratório para estudos e protótipos em Python. |
-| [`Script-Whats`](https://github.com/REDSEC90/Script-Whats) | Git / colaboração | Notas de fluxo Git, branches, commits, SSH e colaboração. |
-| [`iqoptionapi`](https://github.com/REDSEC90/iqoptionapi) | Fork / estudo | Referência para estudo de API/trading automation. |
-| [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Fork / Android | Referência para estudos de device tree, Android e recovery. |
+| [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Python / automation | List filtering and result separation by defined criteria. |
+| [`Cripto`](https://github.com/REDSEC90/Cripto) | Python / experiment | Lab for market, crypto and trading automation studies. |
+| [`Script-Whats`](https://github.com/REDSEC90/Script-Whats) | Git / workflow | Notes around branches, commits, SSH, GitHub and collaboration flow. |
+| [`iqoptionapi`](https://github.com/REDSEC90/iqoptionapi) | Fork / study | Reference fork for studying IQ Option API integration and trading automation. |
+| [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Fork / Android | Device-tree reference for Samsung M53x, Android recovery and mobile systems studies. |
 
-> Nem todo repositório aqui representa um produto final. Alguns são laboratórios, forks ou registros de aprendizado técnico.
-
----
-
-## Histórico técnico
-
-Minha linha de evolução pública no GitHub mostra uma transição gradual:
-
-1. **Android e sistemas móveis**
-   Estudos envolvendo device tree, TWRP, Android e ambientes móveis.
-
-2. **Python e automação simples**
-   Scripts para manipulação, filtragem e organização de dados.
-
-3. **Git, colaboração e fluxo de trabalho**
-   Aprendizado prático de branches, commits, SSH, `gh` e organização de repositórios.
-
-4. **Linux + Android programável**
-   Automação de Waydroid/ADB com `wdroid-v2`, usando modularização, logs, state machine e plugins.
-
-5. **IA aplicada e ferramentas CLI**
-   Construção do `prompt-generator`, conectando LLMs, prompts estruturados, feedback, datasets, avaliação e fine-tuning local.
+Not every repository is a finished product. Some are labs, forks or learning records.
 
 ---
 
-## Stack atual
+## Technical Map
 
-### Linguagens e ferramentas
+```txt
+Core direction
+├─ Cybersecurity
+│  ├─ Linux
+│  ├─ Networking
+│  ├─ Ethical pentest
+│  └─ Hardening and analysis automation
+├─ Artificial Intelligence
+│  ├─ LLM workflows
+│  ├─ Prompt engineering
+│  ├─ Evaluation
+│  └─ Local fine-tuning experiments
+├─ Automation
+│  ├─ CLI tools
+│  ├─ Bash/Python scripts
+│  ├─ Logging and diagnostics
+│  └─ Reusable workflows
+└─ Systems
+   ├─ Android / ADB / Waydroid
+   ├─ Containers
+   ├─ Linux environments
+   └─ Software + hardware integration
+```
 
-`Python` · `TypeScript` · `Bash/Shell` · `JavaScript` · `Linux` · `Git` · `Node.js` · `Jest` · `ADB` · `Waydroid` · `Ollama`
+---
 
-### Áreas de estudo
+## Stack
+
+`Python` · `TypeScript` · `JavaScript` · `Bash/Shell` · `Linux` · `Git` · `Node.js` · `Jest` · `ADB` · `Waydroid` · `Ollama`
 
 `Cybersecurity` · `Ethical Hacking` · `Pentest` · `Networking` · `Linux Hardening` · `AI Agents` · `Prompt Engineering` · `Automation` · `Android Systems` · `Electronics` · `Applied Math` · `Trading Systems`
 
@@ -147,37 +135,21 @@ Minha linha de evolução pública no GitHub mostra uma transição gradual:
 
 ## Roadmap
 
-### Curto prazo
-
-- Melhorar READMEs dos repositórios menores.
-- Adicionar descrições e topics em todos os projetos.
-- Separar claramente projetos autorais, forks e estudos.
-- Criar documentação de instalação, uso e arquitetura para cada ferramenta.
-- Adicionar exemplos reais de execução nos principais repositórios.
-
-### Médio prazo
-
-- Criar laboratórios públicos de cybersecurity com foco ético.
-- Construir ferramentas defensivas/ofensivas seguras para estudo controlado.
-- Melhorar testes automatizados e CI/CD.
-- Publicar writeups técnicos de Linux, redes, IA e automação.
-- Organizar projetos por trilhas: `security`, `ai`, `automation`, `android`, `trading`.
-
-### Longo prazo
-
-- Desenvolver sistemas de IA aplicados à análise, automação e segurança.
-- Criar ferramentas técnicas reutilizáveis para pentest ético, hardening e investigação.
-- Integrar software, hardware, IA e segurança em projetos de alto impacto.
+- Improve READMEs, examples and install guides for smaller repositories.
+- Add more public cybersecurity labs with clear ethical scope.
+- Publish writeups on Linux, networking, AI tooling and automation.
+- Improve tests, CI/CD and documentation for the strongest projects.
+- Build reusable tools for ethical pentest, hardening, investigation and AI-assisted analysis.
 
 ---
 
-## Princípios
+## Principles
 
-- Ética antes de exploração.
-- Entender antes de automatizar.
-- Construir antes de apenas consumir.
-- Documentar para transformar estudo em conhecimento reutilizável.
-- Segurança ofensiva e defensiva devem evoluir juntas.
+- Ethics before exploitation.
+- Understand before automating.
+- Build before only consuming.
+- Document to turn study into reusable knowledge.
+- Offensive and defensive security should evolve together.
 
 ---
 
@@ -194,21 +166,10 @@ Minha linha de evolução pública no GitHub mostra uma transição gradual:
 
 ---
 
-## Mentalidade
+## Contact
 
-```txt
-Entender sistemas profundamente.
-Explorar limites de forma ética.
-Construir ferramentas reais.
-Transformar conhecimento em impacto.
-```
-
----
-
-## Contato
-
-A melhor forma de acompanhar meu trabalho é pelos repositórios públicos e issues dos projetos.
+The best way to follow my work is through my public repositories and project issues.
 
 - GitHub: [`@REDSEC90`](https://github.com/REDSEC90)
-- Projetos: [`github.com/REDSEC90?tab=repositories`](https://github.com/REDSEC90?tab=repositories)
+- Repositories: [`github.com/REDSEC90?tab=repositories`](https://github.com/REDSEC90?tab=repositories)
 
