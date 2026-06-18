@@ -84,7 +84,7 @@ Ambiente modular em linha de comando para controlar e automatizar instâncias An
 | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | Projeto principal / IA | Principal sinal público de IA aplicada, engenharia de prompts, CLI e fluxo com modelos de linguagem. |
 | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Projeto principal / sistemas | Principal sinal público de automação Linux/Android, Waydroid, ADB, diagnósticos e arquitetura shell modular. |
 | [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Python / automação | Registro de automação prática com filtragem de listas e separação por critérios. |
-| [`Cripto`](https://github.com/REDSEC90/Cripto) | Python / experimento | Laboratório para experimentos com Python, cripto, mercado, automação e análise. |
+| [`Cripto`](https://github.com/REDSEC90/Cripto) | Python / segurança | Laboratório para estudos de criptografia, proteção de dados e segurança aplicada. |
 | [`Script-Whats`](https://github.com/REDSEC90/Script-Whats) | Git / fluxo de trabalho | Anotações sobre comandos Git, branches, commits, SSH, GitHub e colaboração. |
 | [`iqoptionapi`](https://github.com/REDSEC90/iqoptionapi) | Fork / estudo | Referência para estudar integração com APIs, automação e padrões de comunicação. |
 | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Fork / Android | Referência para estudos de recovery Android, árvore de dispositivo e sistemas móveis Samsung M53x. |
