@@ -14,6 +14,7 @@
   <a href="#estatísticas-do-github">Estatísticas</a> •
   <a href="#mapa-dos-repositórios">Mapa dos repositórios</a> •
   <a href="#foco-técnico">Foco técnico</a> •
+  <a href="#roteiro">Roteiro</a> •
   <a href="https://github.com/REDSEC90?tab=repositories">Repositórios</a>
 </p>
 
@@ -25,17 +26,36 @@ Sou **Hexspecter**, também conhecido como **REDSEC90**.
 
 Meu foco é transformar estudo técnico em ferramentas, laboratórios e sistemas reutilizáveis. Trabalho principalmente na interseção entre **IA aplicada**, **automação Linux/Android**, **cibersegurança**, **linha de comando** e **engenharia de sistemas**.
 
-A leitura recomendada deste perfil é simples: primeiro os projetos principais, depois os laboratórios, forks e registros de evolução técnica.
+Este perfil é organizado como uma entrada técnica: primeiro os projetos que melhor representam meu trabalho atual, depois laboratórios, forks, estudos e registros de evolução.
 
-| Comece por | Repositório | Sinal técnico |
+Atualmente, os dois principais sinais públicos são [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) e [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2).
+
+| Se você quer avaliar | Comece por | O que observar |
 |---|---|---|
-| IA aplicada | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | Ferramenta em TypeScript para criação, revisão, execução, avaliação e melhoria de prompts estruturados. |
-| Automação e sistemas | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Runtime modular em Bash para controlar ambientes Android/Waydroid com estado, logs, diagnósticos, backups e plugins. |
-| Android e sistemas móveis | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Referência de estudo sobre Android, recovery, árvore de dispositivo e sistemas móveis. |
+| IA aplicada | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | CLI em TypeScript para criação, revisão, execução, avaliação e melhoria de prompts estruturados. |
+| Automação Linux/Android | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Runtime modular em Bash para controlar ambientes Android/Waydroid com estado, logs, diagnósticos, backups e plugins. |
+| Trilha completa | [Mapa dos repositórios](#mapa-dos-repositórios) | Separação entre projetos principais, laboratórios, forks, estudos e registros de aprendizado. |
 
 ---
 
 ## Projetos Principais
+
+<p align="center">
+  <a href="https://github.com/REDSEC90/prompt-generator">
+    <img
+      height="135"
+      alt="Repositório prompt-generator"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=REDSEC90&repo=prompt-generator&theme=transparent&hide_border=true&locale=pt-br"
+    />
+  </a>
+  <a href="https://github.com/REDSEC90/wdroid-v2">
+    <img
+      height="135"
+      alt="Repositório wdroid-v2"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=REDSEC90&repo=wdroid-v2&theme=transparent&hide_border=true&locale=pt-br"
+    />
+  </a>
+</p>
 
 ### [`prompt-generator`](https://github.com/REDSEC90/prompt-generator)
 
