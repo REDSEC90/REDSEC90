@@ -1,7 +1,7 @@
 <h1 align="center">Hexspecter // REDSEC90</h1>
 
 <p align="center">
-  <strong>IA, automação Linux/Android e engenharia de sistemas com mentalidade de segurança.</strong>
+  <strong>Construindo ferramentas de IA, automação Linux/Android e laboratórios de sistemas com mentalidade de segurança.</strong>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#entrada">Entrada</a> •
   <a href="#projetos-principais">Projetos principais</a> •
-  <a href="#laboratórios-e-estudos">Laboratórios</a> •
+  <a href="#mapa-dos-repositórios">Mapa dos repositórios</a> •
   <a href="#foco-técnico">Foco técnico</a> •
   <a href="https://github.com/REDSEC90?tab=repositories">Repositórios</a>
 </p>
@@ -22,15 +22,15 @@
 
 Sou **Hexspecter**, também conhecido como **REDSEC90**.
 
-Este perfil funciona como uma entrada técnica para meus projetos públicos. A organização segue uma ordem simples: primeiro os projetos mais fortes, depois os laboratórios, estudos, forks e registros de evolução.
+Meu foco é transformar estudo técnico em ferramentas, laboratórios e sistemas reutilizáveis. Trabalho principalmente na interseção entre **IA aplicada**, **automação Linux/Android**, **cibersegurança**, **linha de comando** e **engenharia de sistemas**.
 
-| Prioridade | Repositório | O que demonstra |
+A leitura recomendada deste perfil é simples: primeiro os projetos principais, depois os laboratórios, forks e registros de evolução técnica.
+
+| Comece por | Repositório | Sinal técnico |
 |---|---|---|
-| 01 | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | Ferramenta em TypeScript para criação, revisão, execução, avaliação e melhoria de prompts estruturados. |
-| 02 | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Arquitetura em Bash para controle de ambientes Android/Waydroid com estado, logs, diagnósticos, backups e plugins. |
-| 03 | [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Automação em Python para filtragem, organização de listas e separação de resultados por critérios. |
-| 04 | [`Cripto`](https://github.com/REDSEC90/Cripto) | Laboratório em Python para experimentos com mercado, cripto, automação e análise. |
-| 05 | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Referência de estudos sobre Android, recovery, árvore de dispositivo e sistemas móveis. |
+| IA aplicada | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | Ferramenta em TypeScript para criação, revisão, execução, avaliação e melhoria de prompts estruturados. |
+| Automação e sistemas | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Runtime modular em Bash para controlar ambientes Android/Waydroid com estado, logs, diagnósticos, backups e plugins. |
+| Android e sistemas móveis | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Referência de estudo sobre Android, recovery, árvore de dispositivo e sistemas móveis. |
 
 ---
 
@@ -44,7 +44,7 @@ Ferramenta de linha de comando para criar, revisar, executar e melhorar prompts 
 |---|---|
 | Tecnologias | TypeScript, Node.js, Jest, Ollama, Anthropic, OpenAI |
 | Foco | Engenharia de prompts, fluxos com modelos de linguagem, feedback, conjuntos de dados, avaliação e treinamento local |
-| Sinal técnico | Mostra uso prático de IA, automação e organização de uma ferramenta real |
+| Sinal técnico | Mostra uso prático de IA, automação, organização de CLI e documentação de ferramenta real |
 
 **Destaques**
 
@@ -53,7 +53,7 @@ Ferramenta de linha de comando para criar, revisar, executar e melhorar prompts 
 - Armazenamento de feedback para melhoria contínua.
 - Exportação de conjuntos de dados.
 - Fluxo de avaliação e treinamento.
-- Estrutura com testes, documentação e arquitetura de ferramenta reutilizável.
+- Estrutura com testes, documentação e arquitetura reutilizável.
 
 ---
 
@@ -77,26 +77,29 @@ Ambiente modular em linha de comando para controlar e automatizar instâncias An
 
 ---
 
-## Laboratórios e Estudos
+## Mapa dos Repositórios
 
-| Repositório | Tipo | Papel no perfil |
+| Repositório | Categoria | Papel no perfil |
 |---|---|---|
+| [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | Projeto principal / IA | Principal sinal público de IA aplicada, engenharia de prompts, CLI e fluxo com modelos de linguagem. |
+| [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Projeto principal / sistemas | Principal sinal público de automação Linux/Android, Waydroid, ADB, diagnósticos e arquitetura shell modular. |
 | [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Python / automação | Registro de automação prática com filtragem de listas e separação por critérios. |
-| [`Cripto`](https://github.com/REDSEC90/Cripto) | Python / experimento | Laboratório para experimentos com Python, cripto, mercado e automação. |
+| [`Cripto`](https://github.com/REDSEC90/Cripto) | Python / experimento | Laboratório para experimentos com Python, cripto, mercado, automação e análise. |
 | [`Script-Whats`](https://github.com/REDSEC90/Script-Whats) | Git / fluxo de trabalho | Anotações sobre comandos Git, branches, commits, SSH, GitHub e colaboração. |
 | [`iqoptionapi`](https://github.com/REDSEC90/iqoptionapi) | Fork / estudo | Referência para estudar integração com APIs, automação e padrões de comunicação. |
-| [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Fork / Android | Referência para estudos de recovery Android, árvore de dispositivo e sistemas móveis. |
+| [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Fork / Android | Referência para estudos de recovery Android, árvore de dispositivo e sistemas móveis Samsung M53x. |
 
-Nem todo repositório aqui representa um produto final. Alguns são ferramentas, outros são laboratórios, estudos, forks ou registros de evolução técnica.
+Nem todo repositório aqui representa um produto final. Alguns são ferramentas, outros são laboratórios, estudos, forks ou registros de evolução técnica. Essa distinção é intencional.
 
 ---
 
-## O Que Este Perfil Comunica
+## Direção de Trabalho
 
-- Estou construindo uma linha técnica em IA aplicada, automação e segurança.
-- Prefiro ferramentas, laboratórios e fluxos reutilizáveis a anotações soltas.
-- Conecto segurança com Linux, redes, Android, automação, matemática e IA.
-- Mantenho distinção entre projetos autorais, estudos, forks e experimentos.
+- Construir ferramentas reais, não apenas coleções de anotações.
+- Organizar estudos em laboratórios reproduzíveis.
+- Conectar IA, automação, Linux, Android, redes e segurança.
+- Separar projetos finalizados, experimentos, forks e referências.
+- Apresentar projetos privados apenas com documentação pública segura, sem código, credenciais ou lógica sensível.
 
 ---
 
@@ -145,7 +148,7 @@ Direção atual
 - Criar anotações técnicas sobre Linux, redes, IA, automação e segurança.
 - Expandir testes, integração contínua e documentação de arquitetura nos projetos principais.
 - Construir ferramentas reutilizáveis para pentest ético, hardening, investigação e análise assistida por IA.
-- Separar melhor projetos finalizados, laboratórios, forks e estudos.
+- Criar apresentações públicas seguras para projetos privados quando estiverem consolidados.
 
 ---
 
