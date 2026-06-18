@@ -1,48 +1,48 @@
 <h1 align="center">Hexspecter // REDSEC90</h1>
 
 <p align="center">
-  <strong>Security-minded developer building AI tooling, Linux automation and systems labs.</strong>
+  <strong>Cybersecurity-minded developer focused on AI tooling, Linux automation and systems engineering.</strong>
 </p>
 
 <p align="center">
-  Cybersecurity • Artificial Intelligence • Linux/Android Automation • CLI Tooling • Systems Engineering
+  Ethical Hacking • LLM Tooling • CLI Automation • Android/Linux Systems • Applied Math
 </p>
 
 <p align="center">
-  <a href="#entrypoint">Entrypoint</a> •
-  <a href="#flagship-work">Flagship work</a> •
-  <a href="#labs-and-studies">Labs</a> •
+  <a href="#start-here">Start here</a> •
+  <a href="#proof-of-work">Proof of work</a> •
+  <a href="#repository-map">Repository map</a> •
   <a href="#technical-focus">Technical focus</a> •
   <a href="https://github.com/REDSEC90?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-## Entrypoint
+## Start Here
 
-I am **Wendell de Araujo Lima**, also known as **Hexspecter**. This profile is organized as a technical entrypoint: start with the strongest projects, then use the labs to understand the learning path.
+I am **Wendell de Araujo Lima**, also known as **Hexspecter**. This profile is organized as a technical entrypoint: it shows what I build, which repositories prove it, and where my current study direction is going.
 
-| Start with | Repository | Signal |
+| Priority | Repository | What it proves |
 |---|---|---|
-| AI/LLM tooling | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | TypeScript CLI, LLM providers, prompt engineering, feedback loops, datasets, evaluation and local fine-tuning workflow. |
-| Linux + Android automation | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Bash architecture, Waydroid/ADB control, state machine, diagnostics, logging, backups and plugin system. |
-| Python automation | [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Practical scripting, filtering logic and result organization. |
-| Market/API experiments | [`Cripto`](https://github.com/REDSEC90/Cripto) + [`iqoptionapi`](https://github.com/REDSEC90/iqoptionapi) | Python studies around APIs, automation, market data and trading systems. |
-| Android systems | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Android recovery, device tree references and mobile systems study. |
+| 01 | [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | AI/LLM tooling, TypeScript CLI design, provider integrations, feedback loops, datasets and evaluation. |
+| 02 | [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Linux automation, Android/Waydroid control, Bash architecture, state machine, diagnostics and plugins. |
+| 03 | [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Practical Python automation, filtering logic and result organization. |
+| 04 | [`Cripto`](https://github.com/REDSEC90/Cripto) | Python experiments around market data, crypto and trading automation ideas. |
+| 05 | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Android recovery, device tree references and mobile systems study. |
 
 ---
 
-## Flagship Work
+## Proof Of Work
 
 ### [`prompt-generator`](https://github.com/REDSEC90/prompt-generator)
 
-CLI for creating, reviewing, running and improving structured prompts for LLMs.
+A CLI for creating, reviewing, running and improving structured prompts for LLMs.
 
 | Area | Details |
 |---|---|
 | Stack | TypeScript, Node.js, Jest, Ollama, Anthropic, OpenAI |
-| Focus | Prompt engineering, LLM workflows, feedback, datasets, evaluation and local fine-tuning |
-| Why it matters | Shows practical AI tooling, not only AI usage |
+| Focus | Prompt engineering, LLM workflows, feedback, datasets, evaluation and local fine-tuning workflow |
+| Signal | Shows practical AI tooling, not only AI usage |
 
 **Highlights**
 
@@ -62,7 +62,7 @@ Modular Linux CLI runtime for controlling Android/Waydroid environments.
 |---|---|
 | Stack | Bash/Shell, Linux, Debian, Waydroid, ADB, Makefile |
 | Focus | Android automation, state control, diagnostics, logging, backups and plugins |
-| Why it matters | Shows systems thinking applied to real Linux automation |
+| Signal | Shows systems thinking applied to real Linux automation |
 
 **Highlights**
 
@@ -73,10 +73,12 @@ Modular Linux CLI runtime for controlling Android/Waydroid environments.
 
 ---
 
-## Labs And Studies
+## Repository Map
 
 | Repository | Type | Role in the profile |
 |---|---|---|
+| [`prompt-generator`](https://github.com/REDSEC90/prompt-generator) | Flagship / AI | Main public signal for LLM tooling, prompt engineering and TypeScript CLI architecture. |
+| [`wdroid-v2`](https://github.com/REDSEC90/wdroid-v2) | Flagship / systems | Main public signal for Linux, Android automation, diagnostics and modular shell tooling. |
 | [`Filtro-Ferraz`](https://github.com/REDSEC90/Filtro-Ferraz) | Python / automation | Early practical automation: filtering lists and separating results by criteria. |
 | [`Cripto`](https://github.com/REDSEC90/Cripto) | Python / experiment | Lab for market, crypto and trading automation experiments. |
 | [`Script-Whats`](https://github.com/REDSEC90/Script-Whats) | Git / workflow | Notes around branches, commits, SSH, GitHub and collaboration flow. |
@@ -84,6 +86,15 @@ Modular Linux CLI runtime for controlling Android/Waydroid environments.
 | [`twrp_device_samsung_m53x`](https://github.com/REDSEC90/twrp_device_samsung_m53x) | Fork / Android | Device-tree reference for Samsung M53x, Android recovery and mobile systems studies. |
 
 Some repositories are finished tools. Others are labs, forks or records of technical study. I keep that distinction explicit.
+
+---
+
+## What This Profile Says
+
+- I am building toward ethical hacking, AI-assisted analysis and systems automation.
+- I prefer tools, labs and repeatable workflows over loose notes.
+- I connect security with Linux, networking, Android systems, automation, psychology, math and AI.
+- I treat forks and experiments as study material, not finished products.
 
 ---
 
@@ -125,9 +136,9 @@ Current direction
 
 ## Roadmap
 
-- Improve documentation, examples and install guides across smaller repositories.
-- Publish public cybersecurity labs with clear ethical scope.
-- Add writeups on Linux, networking, AI tooling and automation.
+- Improve READMEs, install guides and examples across smaller repositories.
+- Publish cybersecurity labs with clear ethical scope and reproducible setup.
+- Add technical writeups on Linux, networking, AI tooling and automation.
 - Expand tests, CI/CD and architecture documentation in flagship projects.
 - Build reusable tools for ethical pentest, hardening, investigation and AI-assisted analysis.
 
@@ -162,4 +173,3 @@ The best way to follow my work is through public repositories and project issues
 
 - GitHub: [`@REDSEC90`](https://github.com/REDSEC90)
 - Repositories: [`github.com/REDSEC90?tab=repositories`](https://github.com/REDSEC90?tab=repositories)
-
