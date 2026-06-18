@@ -165,13 +165,19 @@ Direção atual
 
 ## Estatísticas
 
+Métricas automáticas dos repositórios públicos. Elas ajudam a visualizar atividade, linguagens e consistência, mas os projetos fixados continuam sendo a melhor forma de avaliar o trabalho técnico.
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=REDSEC90&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDSEC90&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=REDSEC90&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Atividade%20no%20GitHub&locale=pt-br" alt="Resumo de atividade no GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDSEC90&layout=compact&theme=transparent&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20usadas&locale=pt-br" alt="Linguagens mais usadas nos repositórios públicos" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=REDSEC90&theme=transparent&hide_border=true" alt="Sequência de contribuições no GitHub" />
+  <img src="https://streak-stats.demolab.com?user=REDSEC90&theme=transparent&hide_border=true&card_width=860" alt="Sequência de contribuições no GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=REDSEC90&theme=github-compact&hide_border=true&radius=8&area=true&custom_title=Atividade%20recente" alt="Gráfico de atividade recente no GitHub" />
 </p>
 
 ---
