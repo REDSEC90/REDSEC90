@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#entrada">Entrada</a> •
   <a href="#projetos-principais">Projetos principais</a> •
+  <a href="#estatísticas-do-github">Estatísticas</a> •
   <a href="#mapa-dos-repositórios">Mapa dos repositórios</a> •
   <a href="#foco-técnico">Foco técnico</a> •
   <a href="https://github.com/REDSEC90?tab=repositories">Repositórios</a>
@@ -74,6 +75,103 @@ Ambiente modular em linha de comando para controlar e automatizar instâncias An
 - Integração com ADB, Waydroid, backups e sistema de plugins.
 - Organização modular em vez de scripts soltos.
 - Base útil para automação, testes locais e controle de ambientes Android.
+
+---
+
+## Estatísticas do GitHub
+
+Métricas automáticas dos repositórios públicos. Elas ajudam a visualizar atividade, linguagens e consistência, mas os projetos fixados continuam sendo a melhor forma de avaliar o trabalho técnico.
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=REDSEC90&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=github_dark&hide_border=true&custom_title=Estat%C3%ADsticas%20do%20GitHub"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=REDSEC90&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=default&hide_border=true&custom_title=Estat%C3%ADsticas%20do%20GitHub"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      height="165"
+      alt="Estatísticas do GitHub de REDSEC90"
+      src="https://github-readme-stats.vercel.app/api?username=REDSEC90&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=transparent&hide_border=true&custom_title=Estat%C3%ADsticas%20do%20GitHub"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=REDSEC90&layout=compact&langs_count=8&locale=pt-br&theme=github_dark&hide_border=true&exclude_repo=REDSEC90,iqoptionapi,twrp_device_samsung_m53x&custom_title=Linguagens%20mais%20usadas"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=REDSEC90&layout=compact&langs_count=8&locale=pt-br&theme=default&hide_border=true&exclude_repo=REDSEC90,iqoptionapi,twrp_device_samsung_m53x&custom_title=Linguagens%20mais%20usadas"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      height="165"
+      alt="Linguagens mais usadas por REDSEC90"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDSEC90&layout=compact&langs_count=8&locale=pt-br&theme=transparent&hide_border=true&exclude_repo=REDSEC90,iqoptionapi,twrp_device_samsung_m53x&custom_title=Linguagens%20mais%20usadas"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=REDSEC90&theme=github-dark-blue&hide_border=true&locale=pt_BR&mode=weekly&card_width=700"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=REDSEC90&theme=default&hide_border=true&locale=pt_BR&mode=weekly&card_width=700"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      alt="Sequência de contribuições de REDSEC90"
+      src="https://streak-stats.demolab.com?user=REDSEC90&theme=transparent&hide_border=true&locale=pt_BR&mode=weekly&card_width=700"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=REDSEC90&theme=github-dark&hide_border=true&area=true&radius=12&days=40&custom_title=Atividade%20recente"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=REDSEC90&theme=github-compact&hide_border=true&area=true&radius=12&days=40&custom_title=Atividade%20recente"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      alt="Gráfico de atividade recente de REDSEC90"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=REDSEC90&theme=github-compact&hide_border=true&area=true&radius=12&days=40&custom_title=Atividade%20recente"
+    />
+  </picture>
+</p>
+
+### Resumo técnico
+
+<p align="center">
+  <img
+    width="100%"
+    alt="Resumo do perfil GitHub de REDSEC90"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REDSEC90&theme=transparent"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180"
+    alt="Linguagens por repositório"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=REDSEC90&theme=transparent&exclude=html,css"
+  />
+  <img
+    height="180"
+    alt="Linguagens por commit"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=REDSEC90&theme=transparent&exclude=html,css"
+  />
+</p>
 
 ---
 
@@ -160,25 +258,6 @@ Direção atual
 - Documentar para transformar estudo em conhecimento reutilizável.
 - Segurança ofensiva e defensiva devem evoluir juntas.
 - Automação precisa de observabilidade, controle e responsabilidade.
-
----
-
-## Estatísticas
-
-Métricas automáticas dos repositórios públicos. Elas ajudam a visualizar atividade, linguagens e consistência, mas os projetos fixados continuam sendo a melhor forma de avaliar o trabalho técnico.
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=REDSEC90&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Atividade%20no%20GitHub&locale=pt-br" alt="Resumo de atividade no GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDSEC90&layout=compact&theme=transparent&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20usadas&locale=pt-br" alt="Linguagens mais usadas nos repositórios públicos" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=REDSEC90&theme=transparent&hide_border=true&card_width=860" alt="Sequência de contribuições no GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=REDSEC90&theme=github-compact&hide_border=true&radius=8&area=true&custom_title=Atividade%20recente" alt="Gráfico de atividade recente no GitHub" />
-</p>
 
 ---
 
